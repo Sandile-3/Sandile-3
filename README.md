@@ -11,8 +11,7 @@
 
 ## 🧠 What I Do
 - 📈 Data Analytics Projects (Power BI, SQL, Python)  
-- 🧠 Machine Learning & Data Science Learning Journey  
-- 👨‍🏫 Tutoring Maths & Physics at MR M Academy  
+- 🧠 Machine Learning & Data Science Learning Journey   
 - 🧠 Building impactful dashboards and models that drive insights
 
 ---
